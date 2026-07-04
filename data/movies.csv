@@ -1,0 +1,101 @@
+movieId,title,genres
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+2,Jumanji (1995),Adventure|Children|Fantasy
+3,Grumpier Old Men (1995),Comedy|Romance
+4,Waiting to Exhale (1995),Comedy|Drama|Romance
+5,Father of the Bride Part II (1995),Comedy
+6,Heat (1995),Action|Crime|Thriller
+7,Sabrina (1995),Comedy|Romance
+8,Tom and Huck (1995),Adventure|Children
+9,Sudden Death (1995),Action
+10,GoldenEye (1995),Action|Adventure|Thriller
+11,American President The (1995),Comedy|Drama|Romance
+12,Dracula: Dead and Loving It (1995),Comedy|Horror
+13,Balto (1995),Adventure|Animation|Children
+14,Nixon (1995),Drama
+15,Casino (1995),Crime|Drama
+16,Sense and Sensibility (1995),Drama|Romance
+17,Four Rooms (1995),Comedy
+18,Ace Ventura: When Nature Calls (1995),Comedy
+19,Money Train (1995),Action|Comedy|Crime|Drama|Thriller
+20,Get Shorty (1995),Comedy|Crime|Thriller
+21,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+22,Assassins (1995),Action|Crime|Thriller
+23,Powder (1995),Drama|Sci-Fi
+24,Leaving Las Vegas (1995),Drama|Romance
+25,Othello (1995),Drama
+26,Now and Then (1995),Children|Drama
+27,Persuasion (1995),Drama|Romance
+28,City of Lost Children The (1995),Adventure|Drama|Fantasy|Mystery|Sci-Fi
+29,Shanghai Triad (1995),Crime|Drama
+30,Dangerous Minds (1995),Drama
+31,Twelve Monkeys (1995),Mystery|Sci-Fi|Thriller
+32,Wings of Courage (1995),Adventure|Romance
+33,Babe (1995),Children|Drama
+34,Carrington (1995),Drama|Romance
+35,Dead Man Walking (1995),Crime|Drama
+36,Across the Sea of Time (1995),Documentary
+37,It Takes Two (1995),Comedy
+38,Clueless (1995),Comedy|Romance
+39,Devil in a Blue Dress (1995),Crime|Film-Noir|Mystery|Thriller
+40,Johnny Mnemonic (1995),Action|Sci-Fi|Thriller
+41,Mighty Aphrodite (1995),Comedy|Drama|Romance
+42,Antonia's Line (1995),Drama
+43,Angels and Insects (1995),Drama|Romance
+44,White Squall (1996),Action|Adventure|Drama
+45,Dunston Checks In (1996),Children|Comedy
+46,Black Sheep (1996),Comedy
+47,Beautiful Girls (1996),Comedy|Drama|Romance
+48,Up Close and Personal (1996),Drama|Romance
+49,Down Periscope (1996),Comedy
+50,The Birdcage (1996),Comedy
+51,Ghosts of Mississippi (1996),Drama
+52,Scream (1996),Comedy|Horror|Mystery|Thriller
+53,Independence Day (1996),Action|Adventure|Sci-Fi|Thriller
+54,Twister (1996),Action|Adventure|Drama|Thriller
+55,The Rock (1996),Action|Adventure|Thriller
+56,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+57,Fargo (1996),Comedy|Crime|Drama|Thriller
+58,Jerry Maguire (1996),Comedy|Drama|Romance
+59,The English Patient (1996),Drama|Romance|War
+60,Se7en (1995),Crime|Drama|Horror|Mystery|Thriller
+61,The Usual Suspects (1995),Crime|Mystery|Thriller
+62,The Shawshank Redemption (1994),Drama
+63,Forrest Gump (1994),Comedy|Drama|Romance|War
+64,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+65,The Dark Knight (2008),Action|Crime|Drama
+66,Inception (2010),Action|Sci-Fi|Thriller
+67,Interstellar (2014),Adventure|Drama|Sci-Fi
+68,The Matrix (1999),Action|Sci-Fi
+69,Goodfellas (1990),Crime|Drama
+70,The Godfather (1972),Crime|Drama
+71,Fight Club (1999),Drama
+72,The Lord of the Rings: The Return of the King (2003),Action|Adventure|Drama|Fantasy
+73,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+74,Schindler's List (1993),Drama|History|War
+75,Parasite (2019),Comedy|Drama|Thriller
+76,Avengers: Endgame (2019),Action|Adventure|Sci-Fi
+77,Spirited Away (2001),Adventure|Animation|Fantasy
+78,Your Name (2016),Animation|Drama|Fantasy|Romance
+79,The Social Network (2010),Drama
+80,Whiplash (2014),Drama|Music
+81,La La Land (2016),Comedy|Drama|Music|Romance
+82,Get Out (2017),Comedy|Horror|Mystery|Thriller
+83,Coco (2017),Adventure|Animation|Music|Fantasy
+84,Django Unchained (2012),Drama|Western
+85,The Wolf of Wall Street (2013),Comedy|Crime|Drama
+86,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi
+87,Arrival (2016),Drama|Sci-Fi
+88,Blade Runner 2049 (2017),Drama|Mystery|Sci-Fi
+89,Joker (2019),Crime|Drama|Thriller
+90,The Prestige (2006),Drama|Mystery|Sci-Fi|Thriller
+91,The Departed (2006),Crime|Drama|Thriller
+92,Gladiator (2000),Action|Adventure|Drama
+93,The Silence of the Lambs (1991),Crime|Drama|Horror|Thriller
+94,The Green Mile (1999),Crime|Drama|Fantasy
+95,The Grand Budapest Hotel (2014),Adventure|Comedy|Crime
+96,1917 (2019),Drama|War
+97,Dune (2021),Adventure|Drama|Sci-Fi
+98,Everything Everywhere All at Once (2022),Action|Adventure|Comedy|Fantasy|Sci-Fi
+99,Top Gun: Maverick (2022),Action|Drama
+100,Oppenheimer (2023),Drama|History|Thriller
